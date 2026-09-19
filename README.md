@@ -5,7 +5,7 @@ Dự án này là một tài liệu học tập và nghiên cứu (được biê
 
 ## 👤 Thông tin dự án
 - **Tác giả:** Nguyễn Thị Hoài Giang
-- **Mã số sinh viên:** 2351010007
+- **Mã số sinh viên:** 23S1010007
 - **Thời gian thực hiện:** Tháng 9 năm 2026
 - **Địa điểm:** Huế, Việt Nam
 - **Định dạng tài liệu:** LaTeX / PDF
